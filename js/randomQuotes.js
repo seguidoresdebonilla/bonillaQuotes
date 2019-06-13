@@ -8,7 +8,7 @@
 							text: "Tengo un incendio en el trabajo."
                         },
                         {
-							text: "un la de red publica, privada tiene que estar."
+							text: "uh la de red publica, privada tiene que estar."
                         },
                         {
 							text: "A, B, C..."
@@ -32,7 +32,7 @@
                             text: "Vamo' a ser sinceros, no prepare la clase, pasa que me llamaron a ultimo momento(1ra clase)."
                         },
                         {
-							text: "Los puntos de las IP con muy importantes"
+							text: "Los puntos de las IP son muy importantes"
                         },
                         {
 							text: "La caratula es lo mas importante del trabajo."
@@ -80,11 +80,35 @@
 							text: "El super-poder de leer como Macri(Gato) de Cosme ATR y el Telettubie."
                         },
                         {
-							text: "Estoy cansado, sino ibamos a Hugis y pediamos una pizza y unas birras."
+							text: "Estoy cansado, sino ibamos a Uggi's y pediamos una pizza y unas birras."
                         },
                         {
 							text: "No sabemos si la realidad que vemos es de verdad o no..."
-                        }      
+                        },
+                        {
+							text: "No encuentro mucho..."
+                        },
+                        {
+							text: "Me olvide"
+                        },
+                        {
+							text: "¿Hay que estudiar mucho?"
+                        },
+                        {
+							text: "Me parece que no hay que agregar mucho"
+                        },
+                        {
+							text: "¿Qué es Mb y Gb?"
+                        },
+                        {
+							text: "¿Que es Mhz y Ghz?"
+                        },
+                        {
+							text: "¿La linea del tiempo la hago sin fechas?"
+                        },
+                        {
+							text: "Te di mi mejor material"
+                        }                      
 					];
 					// Quotes randomizer
 					var quote = quotes[Math.floor(Math.random() * quotes.length)];

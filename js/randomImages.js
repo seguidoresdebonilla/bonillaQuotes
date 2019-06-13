@@ -11,7 +11,8 @@ var myPix = new Array("img/01.jpg","img/02.jpg","img/03.jpg","img/04.jpg","img/0
                       "img/41.jpg","img/42.jpg","img/43.jpg","img/44.jpg","img/45.jpg",
                       "img/46.jpg","img/47.jpg","img/48.jpg","img/48.jpg","img/50.jpg",
                       "img/51.jpg","img/52.jpg","img/53.jpg","img/54.jpg","img/55.jpg",
-                      "img/56.jpg","img/57.jpg","img/58.jpg","img/59.jpg","img/60.jpg");
+                      "img/56.jpg","img/57.jpg","img/58.jpg","img/59.jpg","img/60.jpg",
+                      "img/61.jpg","img/62.jpg");
 
 function choosePic() {
 	randomNum = Math.floor((Math.random() * myPix.length));
