@@ -5,6 +5,9 @@
 							text: "Diagrama de Flijo."
 						},
 						{
+							text: "Yo voy a leer profe, despues usted vea que hace."
+						},
+						{
 							text: "Tengo un incendio en el trabajo."
                         },
                         {
